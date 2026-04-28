@@ -10,8 +10,11 @@
         <mxCell id="zyPqQfaA47jzpdGx9jH--4" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;MedCLIPSeg&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="370" y="345" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zyPqQfaA47jzpdGx9jH--6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zyPqQfaA47jzpdGx9jH--5" target="zyPqQfaA47jzpdGx9jH--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zyPqQfaA47jzpdGx9jH--5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="120" height="110" as="geometry" />
+          <mxGeometry x="80" y="240" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
